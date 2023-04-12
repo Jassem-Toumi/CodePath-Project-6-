@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <a href="https://www.loom.com/share/9369591ffec94f43958724773f2e5aa5">
-    <p>Loom Message - 12 April 2023 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9369591ffec94f43958724773f2e5aa5-with-play.gif">
   </a>
 
 ## License
